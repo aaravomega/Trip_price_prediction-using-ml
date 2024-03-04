@@ -23,10 +23,10 @@ Plan your trip with confidence, knowing your budget is in check.
 Contributions to enhance dataset coverage, improve model accuracy, and expand features are welcome. Please submit pull requests with detailed descriptions of changes.
 
 ## Future Enhancements
-+Datasets of more cities can be easily added in the future without needing to changing the code.  
-+More sophisticated machine learning algorithms for improved accuracy.  
-+Development of a user-friendly web interface for easier interaction.  
-### +Scraping social media and using setiment analysis to show the user the current views of people who are also on trips to the same cities.  
++ Datasets of more cities can be easily added in the future without needing to changing the code.  
++ More sophisticated machine learning algorithms for improved accuracy.  
++ Development of a user-friendly web interface for easier interaction.  
+### + Scraping social media and using setiment analysis to show the user the current views of people who are also on trips to the same cities.  
 ## Disclaimer
 Trip Price Prediction is intended for informational purposes only. Actual prices may vary. Always verify prices and availability through official sources before making travel arrangements.
 <p align="center">
