@@ -1,6 +1,6 @@
 # Trip_price_prediction-using-ml
 
-[Colab Project Link](https://colab.research.google.com/github/aaravomega/Trip_price_prediction-using-ml/blob/main/Trip_price_prediction_using_ml.ipynb) remember to download and upload the datasets
+[Colab Project Link](https://colab.research.google.com/github/aaravomega/Trip_price_prediction-using-ml/blob/main/Trip_price_prediction_using_ml.ipynb) remember to download and upload the datasets to session storage if you want the code to run
 
 ## Overview
 Planning a trip can be overwhelming, especially when it comes to budgeting for flights, accommodations, and transportation. That's where Trip Price Prediction steps in. This tool uses multiple machine learning models to make accurate predictions for flights, hotels, and cabs. You can easily and quickly adjust input parameters such as destination city, duration of stay, and accommodation preferences to instantly receive estimates until it perfectly aligns with your budget, empowering you to craft the ideal itinerary without breaking the bank. 
